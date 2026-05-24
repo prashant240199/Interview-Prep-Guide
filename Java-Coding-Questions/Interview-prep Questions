@@ -1,0 +1,52 @@
+
+   Core Java 
+ 🔹 What is IS-A and HAS-A relationship?
+ 🔹 How do you achieve loose coupling?
+ 🔹 Explain loose coupling with interface example.
+ 🔹 Difference between final, finally, finalize().
+ 🔹 How to make a class immutable?
+ 🔹 How will you initialize an immutable class?
+ 🔹 What are default methods in interface?
+ 🔹 Before Java 8, what problem existed without default methods?
+
+  Exception Handling
+🔹 Difference between checked and unchecked exceptions.
+ 🔹 Is it possible to create custom exception in Spring Boot?
+ 🔹 How do you implement custom exception handling?
+ 🔹 Difference between @ControllerAdvice and @ExceptionHandler.
+ 🔹 Explain finally block.
+
+   Memory Management & Multithreading
+🔹 Difference between Heap and Stack memory.
+ 🔹 How is Stack related to Heap memory?
+ 🔹 Explain synchronized block.
+ 🔹 Difference between volatile and synchronized.
+ 🔹 Difference between Runnable and Callable.
+ 🔹 What is CompletableFuture?
+ 🔹 Difference between HashMap and ConcurrentHashMap.
+
+   Spring Boot Concepts
+🔹 What is IOC (Inversion of Control)?
+ 🔹 What is DI (Dependency Injection)?
+
+   Redis & Caching
+🔹 What is Redis?
+ 🔹 How did you use Redis in your project?
+ 🔹 Why is Redis faster than traditional DB?
+ 🔹 Did you use TTL in Redis?
+
+    Database & SQL
+ 🔹 What is Normalization?
+ 🔹 What is Denormalization?
+ 🔹 When should we avoid creating indexes?
+ 🔹 How do you implement pagination in DB?
+
+   Microservices Architecture
+🔹 Explain Microservices Architecture.
+ 🔹 What are disadvantages of Microservices?
+ 🔹 Types of communication in Microservices.
+ 🔹 What is API Gateway?
+ 🔹 What is Saga Pattern?
+ 🔹 How can we make microservices resilient?
+ 🔹 What is Circuit Breaker?
+ 🔹 What is Idempotency?
